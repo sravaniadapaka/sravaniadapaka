@@ -1,0 +1,14 @@
+
+n=int(input())
+for i in range(0,n):
+    print(i*i)
+output:
+ input (stdin)
+ 
+ 5
+ your output(stdout)
+ 0
+ 1
+ 4
+ 9
+ 16
