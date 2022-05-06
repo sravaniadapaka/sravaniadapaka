@@ -1,0 +1,6 @@
+E={1:['sri','Manager','05 May',10000], 2:['sai','clerk','10 May',5000], 3:['siri','Asst Mgr','20 jan',2000]}
+x=int(input('enter emp no:'))
+print('emp name :',e[x][0]);
+print('emp desig:',e[x][1]);
+print('emp doj:',e[x][2]);
+print('salary:',e[x][3]);
